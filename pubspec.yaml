@@ -1,0 +1,88 @@
+name: cv
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  animated_radial_menu: ^0.0.1
+
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/fff.png
+    - images/p.png
+    - images/dd.png
+    - images/em.png
+    - images/fff.png
+    - images/l.png
+    - images/ph.png
+    - images/pr.png
+
+    - images/Qualification/com.png
+    - images/Qualification/k.png
+    - images/Qualification/ht.png
+    - images/Qualification/R.png
+    - images/Qualification/arr.png
+    - images/Qualification/m.png
+    - images/Qualification/le.png
+    - images/Qualification/sh.png
+    - images/Qualification/tc.png
+    - images/Qualification/les.png
+    - images/Qualification/cor.png
+    - images/Qualification/ar.png
+    - images/Qualification/bo.png
+    - images/Qualification/prr.png
+    - images/Qualification/comr.png
+    - images/Qualification/top.png
+
+    - images/image/rae.PNG
+    - images/image/pd.png
+
+    - images/icon/a.png
+    - images/icon/ap.png
+    - images/icon/cam.png
+    - images/icon/cv.png
+    - images/icon/it.png
+    - images/icon/mo.png
+    - images/icon/one.png
+    - images/icon/p.png
+    - images/icon/sh.png
+    - images/icon/we.png
+    - images/icon/fe.png
+    - images/shado/b.PNG
+    - images/shado/e.PNG
+    - images/shado/m.PNG
+    - images/shado/t.PNG
+    - images/shado/v.PNG
+    - images/shado/x.PNG
+
+
+  fonts:
+    - family: Cairo
+      fonts:
+        - asset: fonts/Cairo/static/Cairo-Regular.ttf
